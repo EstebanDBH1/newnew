@@ -80,6 +80,7 @@
     font-size: 5em;
     text-transform: uppercase;
     font-family: Futura-heavy;
+    color: #777777;
 }
 
 
@@ -280,7 +281,7 @@ span::before {
   position: fixed;
   width: 10%;
   height: 100vh;
-  background: #e0dfdd;
+  background: #111111;
   z-index: -1;
 }
 
